@@ -1,6 +1,6 @@
-topic_id,top_terms
-T0,woman wife door children house
-T1,king father man son daughter
-T2,fox tailor tree bird wolf
-T3,hans home day mother time
-T4,king princess water dwarf man
+topic_id,top_terms,doc_weight_mean
+T0,cat fox house door dog,0.13766416964508119
+T1,man king wife day mother,0.2899523035502594
+T2,king tailor queen cook time,0.18610536968444624
+T3,princess horse castle morning peasant,0.16497478692141673
+T4,father king son bird heart,0.2213033701987957
